@@ -4,11 +4,23 @@
     <projectFile>KibaFramework/KibaFramework.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73f04e88-9f9a-4d07-8843-f89092253742" name="Default Changelist" comment="" />
+    <list default="true" id="73f04e88-9f9a-4d07-8843-f89092253742" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/KibaFramework.sln.DotSettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViewModel/BaseViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViewModel/Helper/DispatcherHelper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ViewModel/Properties/Annotations.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.KibaFramework/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KibaFramework/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.KibaFramework/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.KibaFramework/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ViewModel/Class1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ViewModel/ViewModel.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ViewModel/ViewModel.csproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -16,18 +28,24 @@
       <option value="$PROJECT_DIR$/Proxy/Class1.cs" />
       <option value="$PROJECT_DIR$/Utiliy/Class1.cs" />
       <option value="$PROJECT_DIR$/ViewModel/Class1.cs" />
+      <option value="$PROJECT_DIR$/ViewModel/Helper/DispatcherHelper.cs" />
+      <option value="$PROJECT_DIR$/ViewModel/BaseViewModel.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1lzxOV8q5xo4s5U0FSTCorbXyxT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -58,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608613692051</updated>
-      <workItem from="1608613695585" duration="344000" />
+      <workItem from="1608613695585" duration="1699000" />
     </task>
     <servers />
   </component>
@@ -68,6 +86,7 @@
   <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
 </project>
